@@ -1,4 +1,4 @@
-![Logo](pgshell.png)
+![Logo](http://leidecker.info/common/images/pgshell.png)
 
 # pgshell
 A tool for exploiting SQL injections in PostgreSQL databases.
