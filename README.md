@@ -8,9 +8,9 @@ The pgshell Perl script exploits configuration weaknesses in the PostgreSQL data
 The general usage of pgshell could be outlined in three steps:
 
 ```
-    gathering information
-    creating the system and the upload framework
-    launching a shell and uploading files
+gathering information
+creating the system and the upload framework
+launching a shell and uploading files
 ```
 
 The minimal parameters are the target host and a request file. The request file contains the HTTP request to send to the server plus a tag <<INJECTION>> that indicates, where to perform the SQL injection. A simple request file can look like this:
